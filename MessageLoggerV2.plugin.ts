@@ -1,10 +1,10 @@
 /**
- * @name MessageLoggerV2
- * @version 1.9.2
+ * @name MessageLoggerV3
+ * @version 1.0.0
  * @description Saves all deleted and purged messages, as well as all edit history and ghost pings. With highly configurable ignore options, and even restoring deleted messages after restarting Discord.
- * @author Lighty
- * @source https://github.com/1Lighty/BetterDiscordPlugins/blob/master/Plugins/MessageLoggerV2/MessageLoggerV2.plugin.js
- * @updateUrl https://raw.githubusercontent.com/1Lighty/BetterDiscordPlugins/master/Plugins/MessageLoggerV2/MessageLoggerV2.plugin.js
+ * @author DTToxic
+ * @source 
+ * @updateUrl 
  */
 
 // Import required modules
